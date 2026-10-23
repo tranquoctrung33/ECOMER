@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963466691161",
+    "project_id": "giuaky-461b1",
+    "storage_bucket": "giuaky-461b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963466691161:android:c95a46463d3e1d9194a748",
+        "android_client_info": {
+          "package_name": "com.example.noteadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBmYCsnX7f4kOwvTATcdNSBlCSdXO5mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
